@@ -49,7 +49,7 @@ const projectsData: Record<string, ProjectData> = {
   'urban-roots': {
     title: 'Urban Roots',
     subtitle: 'Experimento Visual · Cultura & Música',
-    heroImage: '/imagens/variados/5urban.jpg',
+    heroImage: '/imagens/variados/2urban.png',
     problema: 'Uma cena musical independente precisa criar impacto antes mesmo do público chegar ao evento. O desafio era transformar música, artistas e cultura urbana em uma experiência visual forte, contemporânea e reconhecível.',
     ideia: 'Criar a identidade visual de um evento de música urbana a partir da energia de uma DJ, do público e da atmosfera da noite. A campanha deveria parecer parte de uma cena cultural real, não apenas uma divulgação de evento.',
     direcao: 'Misturar fotografia editorial, cultura de rua e linguagem de música independente. A direção combina DJ, palco, multidão, backstage, equipamentos, cartazes e texturas urbanas, criando uma narrativa visual dinâmica, jovem e autêntica.',
