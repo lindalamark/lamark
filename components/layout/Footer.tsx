@@ -8,7 +8,6 @@ export interface FooterProps {
 }
 
 export function Footer({
-  location = 'SÃO PAULO, BRASIL',
   instagramHref = 'https://www.instagram.com/lamarkstudiooficial/',
   whatsappHref = 'https://wa.me/5531982795894?text=Ol%C3%A1%2C%20LAMARK%21%20Gostaria%20de%20conversar%20sobre%20um%20projeto.',
   emailText = 'lalamarkstudio@gmail.com',
@@ -84,7 +83,6 @@ export function Footer({
         
         <div className="border-t border-lamark-graphite pt-8 flex flex-col md:flex-row justify-between items-center gap-4 text-xs font-display tracking-widest text-lamark-gray">
           <p>© LAMARK STUDIO {new Date().getFullYear()}</p>
-          <p className="uppercase">{location}</p>
         </div>
       </div>
     </footer>
