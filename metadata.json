@@ -1,0 +1,8 @@
+{
+  "name": "LAMARK STUDIO",
+  "description": "A LAMARK STUDIO cria soluções visuais para marcas, produtos e campanhas através de design, direção criativa e inteligência artificial.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
